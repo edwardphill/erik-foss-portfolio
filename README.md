@@ -1,2 +1,3 @@
-# erik-foss-portfolio
-Erik Foss - architect's portfolio 
+# Erik Foss' Portfolio
+
+*an architect's portfolio* 
